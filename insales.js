@@ -44,4 +44,4 @@ function findPoly(polyArray) {
 }
 
 // findMinTimeDiff(testTime);
-findPoly(testPoly);
+// findPoly(testPoly);
